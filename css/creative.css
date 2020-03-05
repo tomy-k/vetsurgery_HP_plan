@@ -9710,7 +9710,7 @@ header.masthead {
 section.main_paper_class {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/VMC_image.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://github.com/tomy-k/vetsurgery_HP_plan/blob/master/img/vmc_image.jpg?raw=true");
   background-size: 30%;
   background-position: center;
   background-repeat: no-repeat;
