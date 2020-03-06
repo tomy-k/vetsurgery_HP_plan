@@ -9792,7 +9792,7 @@ header.masthead h1 {
 ul.achivement-box li{
   color: #080808;
   border-left: solid 6px #04087e;/*左側の線*/
-  background: #f1f8ff;/*背景色*/
+  background: white;/*背景色*/
   margin-bottom: 3px;/*下のバーとの余白*/
    line-height: 1.5;
   padding: 0.5em;
