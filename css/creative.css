@@ -9844,3 +9844,7 @@ header.page4_top {
   background-attachment: scroll;
   background-size: cover;
 }
+
+.text-blue{
+  color: blue;
+}
