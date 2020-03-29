@@ -9853,3 +9853,10 @@ header.page4_top {
 .text-red{
   color: red;
 }
+.font-weight-bold {
+  font-weight: 700 !important;
+}
+
+.mem-logo-bottom{
+  padding-bottom: 2rem;
+}
